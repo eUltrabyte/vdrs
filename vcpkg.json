@@ -1,0 +1,10 @@
+{
+  "name": "vdrs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/eUltrabyte/vdrs",
+  "license": "MIT",
+  "dependencies": [
+    "vulkan",
+    "glfw3"
+  ]
+}
