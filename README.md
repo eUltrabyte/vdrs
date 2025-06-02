@@ -4,7 +4,7 @@
 
 # Vulkan Dynamic Rendering Sample
 
-vdrs is mine sample for dynamic rendering extension ( it's core in version 1.3 ) in vulkan.
+vdrs is my sample for dynamic rendering extension ( it's core in version 1.3 ) in vulkan.
 
 ### Libraries
 
